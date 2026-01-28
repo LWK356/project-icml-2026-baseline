@@ -1,0 +1,6 @@
+{
+  "task": "Matmul_Case1",
+  "num_nodes": 30976,
+  "peak_memory": 147200,
+  "algorithm": "innovative_two_stage"
+}

@@ -1,0 +1,10 @@
+{
+  "task": "Conv_Case0",
+  "original_nodes_count": 2580,
+  "final_nodes_count": 3065,
+  "spill_operations_count": 242,
+  "memory_allocations_count": 831,
+  "total_extra_data_movement": 61386,
+  "new_makespan_cycles": "Not Computed",
+  "optimization": "weighted_replacement_strategy"
+}

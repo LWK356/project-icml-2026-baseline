@@ -1,0 +1,62 @@
+[
+  {
+    "task": "Conv_Case0",
+    "original_nodes_count": 2580,
+    "final_nodes_count": 3065,
+    "spill_operations_count": 242,
+    "memory_allocations_count": 831,
+    "total_extra_data_movement": 61386,
+    "new_makespan_cycles": "Not Computed",
+    "optimization": "weighted_replacement_strategy"
+  },
+  {
+    "task": "Conv_Case1",
+    "original_nodes_count": 36086,
+    "final_nodes_count": 70495,
+    "spill_operations_count": 17204,
+    "memory_allocations_count": 12013,
+    "total_extra_data_movement": 899247,
+    "new_makespan_cycles": "Not Computed",
+    "optimization": "weighted_replacement_strategy"
+  },
+  {
+    "task": "FlashAttention_Case0",
+    "original_nodes_count": 1716,
+    "final_nodes_count": 2191,
+    "spill_operations_count": 237,
+    "memory_allocations_count": 572,
+    "total_extra_data_movement": 40584,
+    "new_makespan_cycles": "Not Computed",
+    "optimization": "weighted_replacement_strategy"
+  },
+  {
+    "task": "FlashAttention_Case1",
+    "original_nodes_count": 6952,
+    "final_nodes_count": 8967,
+    "spill_operations_count": 1007,
+    "memory_allocations_count": 2328,
+    "total_extra_data_movement": 170000,
+    "new_makespan_cycles": "Not Computed",
+    "optimization": "weighted_replacement_strategy"
+  },
+  {
+    "task": "Matmul_Case0",
+    "original_nodes_count": 4160,
+    "final_nodes_count": 5246,
+    "spill_operations_count": 543,
+    "memory_allocations_count": 1216,
+    "total_extra_data_movement": 139008,
+    "new_makespan_cycles": "Not Computed",
+    "optimization": "weighted_replacement_strategy"
+  },
+  {
+    "task": "Matmul_Case1",
+    "original_nodes_count": 30976,
+    "final_nodes_count": 39422,
+    "spill_operations_count": 4223,
+    "memory_allocations_count": 8960,
+    "total_extra_data_movement": 1081088,
+    "new_makespan_cycles": "Not Computed",
+    "optimization": "weighted_replacement_strategy"
+  }
+]

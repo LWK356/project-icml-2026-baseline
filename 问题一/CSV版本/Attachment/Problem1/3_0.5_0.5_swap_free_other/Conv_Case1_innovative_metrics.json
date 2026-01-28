@@ -1,0 +1,6 @@
+{
+  "task": "Conv_Case1",
+  "num_nodes": 36086,
+  "peak_memory": 83122,
+  "algorithm": "innovative_two_stage"
+}

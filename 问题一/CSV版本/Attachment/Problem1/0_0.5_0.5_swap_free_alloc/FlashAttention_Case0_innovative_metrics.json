@@ -1,0 +1,6 @@
+{
+  "task": "FlashAttention_Case0",
+  "num_nodes": 1716,
+  "peak_memory": 10560,
+  "algorithm": "innovative_two_stage"
+}

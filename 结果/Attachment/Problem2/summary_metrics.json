@@ -1,0 +1,56 @@
+[
+  {
+    "task": "Conv_Case0",
+    "original_nodes_count": 2580,
+    "final_nodes_count": 3039,
+    "spill_operations_count": 236,
+    "memory_allocations_count": 817,
+    "total_extra_data_movement": 57146,
+    "new_makespan_cycles": "Not Computed"
+  },
+  {
+    "task": "Conv_Case1",
+    "original_nodes_count": 36086,
+    "final_nodes_count": 47108,
+    "spill_operations_count": 5824,
+    "memory_allocations_count": 11386,
+    "total_extra_data_movement": 451707,
+    "new_makespan_cycles": "Not Computed"
+  },
+  {
+    "task": "FlashAttention_Case0",
+    "original_nodes_count": 1716,
+    "final_nodes_count": 2105,
+    "spill_operations_count": 216,
+    "memory_allocations_count": 529,
+    "total_extra_data_movement": 35080,
+    "new_makespan_cycles": "Not Computed"
+  },
+  {
+    "task": "FlashAttention_Case1",
+    "original_nodes_count": 6952,
+    "final_nodes_count": 8621,
+    "spill_operations_count": 921,
+    "memory_allocations_count": 2155,
+    "total_extra_data_movement": 148094,
+    "new_makespan_cycles": "Not Computed"
+  },
+  {
+    "task": "Matmul_Case0",
+    "original_nodes_count": 4160,
+    "final_nodes_count": 4562,
+    "spill_operations_count": 372,
+    "memory_allocations_count": 874,
+    "total_extra_data_movement": 95232,
+    "new_makespan_cycles": "Not Computed"
+  },
+  {
+    "task": "Matmul_Case1",
+    "original_nodes_count": 30976,
+    "final_nodes_count": 33954,
+    "spill_operations_count": 2858,
+    "memory_allocations_count": 6222,
+    "total_extra_data_movement": 731648,
+    "new_makespan_cycles": "Not Computed"
+  }
+]

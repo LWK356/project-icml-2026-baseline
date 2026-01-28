@@ -1,0 +1,6 @@
+{
+  "task": "FlashAttention_Case0",
+  "num_nodes": 1716,
+  "peak_memory": 42248,
+  "makespan_cycles": 58370
+}

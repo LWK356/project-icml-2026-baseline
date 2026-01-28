@@ -1,0 +1,9 @@
+{
+  "task": "Conv_Case1",
+  "original_nodes_count": 36086,
+  "final_nodes_count": 47108,
+  "spill_operations_count": 5824,
+  "memory_allocations_count": 11386,
+  "total_extra_data_movement": 451707,
+  "new_makespan_cycles": "Not Computed"
+}

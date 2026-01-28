@@ -1,0 +1,9 @@
+{
+  "task": "Matmul_Case0",
+  "original_nodes_count": 4160,
+  "final_nodes_count": 4562,
+  "spill_operations_count": 372,
+  "memory_allocations_count": 874,
+  "total_extra_data_movement": 95232,
+  "new_makespan_cycles": "Not Computed"
+}

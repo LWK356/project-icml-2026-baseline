@@ -1,0 +1,9 @@
+{
+  "task": "FlashAttention_Case0",
+  "original_nodes_count": 1716,
+  "final_nodes_count": 2105,
+  "spill_operations_count": 216,
+  "memory_allocations_count": 529,
+  "total_extra_data_movement": 35080,
+  "new_makespan_cycles": "Not Computed"
+}

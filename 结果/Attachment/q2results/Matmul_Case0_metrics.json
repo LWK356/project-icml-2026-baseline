@@ -1,0 +1,10 @@
+{
+  "task": "Matmul_Case0",
+  "original_nodes_count": 4160,
+  "final_nodes_count": 5246,
+  "spill_operations_count": 543,
+  "memory_allocations_count": 1216,
+  "total_extra_data_movement": 139008,
+  "new_makespan_cycles": "Not Computed",
+  "optimization": "weighted_replacement_strategy"
+}

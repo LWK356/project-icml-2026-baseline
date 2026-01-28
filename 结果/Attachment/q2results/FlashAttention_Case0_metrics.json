@@ -1,0 +1,10 @@
+{
+  "task": "FlashAttention_Case0",
+  "original_nodes_count": 1716,
+  "final_nodes_count": 2191,
+  "spill_operations_count": 237,
+  "memory_allocations_count": 572,
+  "total_extra_data_movement": 40584,
+  "new_makespan_cycles": "Not Computed",
+  "optimization": "weighted_replacement_strategy"
+}
