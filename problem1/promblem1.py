@@ -11,7 +11,7 @@ from tqdm import tqdm
 
 # ---------- Configuration ----------
 DATA_DIR = r"./CSV"
-DATA_DIR = r"问题一\问题一\CSV版本"
+DATA_DIR = r"promblem1\promblem1\CSV"
 OUT_DIR = os.path.join(DATA_DIR, "Attachment", "Problem1")
 os.makedirs(OUT_DIR, exist_ok=True)
 
